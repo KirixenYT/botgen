@@ -5,3 +5,5 @@ This is a Discord key generator bot designed specifically for my site.
 - [x] Key gen using MongoDB
 - [ ] Create a dashboard(In progress)
 - [ ] Validate a user
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
